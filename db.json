@@ -1,0 +1,87 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Long hips ngu ngok",
+      "gender": "Male",
+      "email": "long@gmail.com",
+      "address": "Ha Noi",
+      "phone": "123456789",
+      "role": "dev"
+    },
+    {
+      "id": 2,
+      "name": "Truong Xuan Nghia",
+      "gender": "Male",
+      "email": "nghiatx@dogoo.vn",
+      "address": "Ha Noi",
+      "phone": "123456789",
+      "role": "dev"
+    },
+    {
+      "id": 3,
+      "name": "Do Xuan Phi",
+      "gender": "Male",
+      "email": "phidx@dogoo.com",
+      "address": "Ha Noi",
+      "phone": "123456789",
+      "role": "dev"
+    },
+    {
+      "id": "38e1a7c4-eb55-467a-9a05-6f5407d59579",
+      "name": "Do Tuan Dat",
+      "gender": "Male",
+      "email": "datdt@dogoo.vn",
+      "address": "Ha Noi",
+      "phone": "0984193954",
+      "role": "dev"
+    },
+    {
+      "id": "fa0cbc75-38d0-4bd2-9528-78456b0194ce",
+      "name": "Vi Van Ninh",
+      "gender": "Male",
+      "email": "ninhvv@dogoo.vn",
+      "address": "Ha Noi",
+      "phone": "123456789",
+      "role": "sysadmin"
+    },
+    {
+      "id": "ff1a713d-8956-4cbe-b1ec-9e5696d67884",
+      "name": "Pham Duc Dat",
+      "gender": "Male",
+      "email": "datpd@dogoo.vn",
+      "address": "Ha Noi",
+      "phone": "123456789",
+      "role": "dev"
+    },
+    {
+      "id": "86e41f5e-70fc-4213-984f-bdb96233e1d3",
+      "name": "a",
+      "gender": "Male",
+      "email": "truongnghia1199@gmail.com",
+      "address": "asdfádf",
+      "phone": "0396974339",
+      "role": "ádf"
+    },
+    {
+      "id": "2f415208-2b1e-4275-92b9-5c09cbaea3e9",
+      "name": "trương tuấn nghĩa",
+      "gender": "Female",
+      "email": "truongnghia1199@gmail.com",
+      "address": "asdfádf",
+      "phone": "0396974339",
+      "role": "ádf"
+    },
+    {
+      "id": "9337f1b6-a4ed-47ae-ac16-67d482c2ec49",
+      "name": {
+        "name": "a",
+        "gender": "Male",
+        "email": "truongnghia1199@gmail.com",
+        "address": "asdfádf",
+        "phone": "0396974339",
+        "role": "ádf"
+      }
+    }
+  ]
+}
